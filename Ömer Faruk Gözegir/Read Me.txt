@@ -1,0 +1,7 @@
+Ömer Faruk GÖZEGİR tarafından yapılmıştır.
+
+Kontroller;
+
+Bilgisayar için;
+ok tuşları ile hareket ve zıplama
+
