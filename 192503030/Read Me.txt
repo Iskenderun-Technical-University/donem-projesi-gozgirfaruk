@@ -1,0 +1,8 @@
+Ömer Faruk Gözegir tarafından tasarlanmıştır.
+Oyunun kontrolleri bilgisayar için ayarlanmıştır.
+
+Kontroller;
+
+Bilgisayar için;
+ok tuşları ile hareket ve zıplama.
+
